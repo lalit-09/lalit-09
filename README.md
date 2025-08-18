@@ -28,7 +28,7 @@
 
 <p align="left">I'm Lalit Rajak from Jabalpur MP. <br><br>- 🔭 I’m student as a Web Developer.<br>- 📚 I'm currently learning Full Stack from Apna College.<br>- ⚡ In my free time I used to build a new project</p>
 
-###
+##
 
 <h3 align="left">🛠 Language and tools</h3>
 
