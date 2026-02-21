@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I'm Lalit Rajak from Jabalpur MP. <br><br>- 🔭 I’m student as a Web Developer.<br>- 📚 I'm currently learning Full Stack from Apna College.<br>- ⚡ In my free time I used to build a new project</p>
+<p align="left">I'm Lalit Rajak from Jabalpur MP. <br><br>- 🔭 I’m student as a Web Developer.<br>- 📚 I'm MERN Stack Developer | Turning Ideas into Web Applications.<br>- ⚡ In my free time I used to build a new project</p>
 
 ##
 
@@ -61,7 +61,7 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+<h3 align="left">🔥 My Stats :</h3>
 
 <!-- <div align="center">
   <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
